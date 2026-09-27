@@ -18,7 +18,7 @@ python fetch_latest.py
 ```
 Prints a summary for each creator to the terminal 
 Appends a row to snapshot.csv after each run
-Sppends a row to growth.csv after the second run (first run sets baseline for comparison)
+Appends a row to growth.csv after the second run (first run sets baseline for comparison)
 
 ## Files
 | File | Purpose |
